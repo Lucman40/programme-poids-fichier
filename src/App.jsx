@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { Binary, HardDrive, Check, ChevronRight, HelpCircle, RefreshCw } from 'lucide-react';
-import BitManipulation from './components/BitManipulation';
-import ByteConverter from './components/ByteConverter';
-import Introduction from './components/Introduction';
-import FileExamples from './components/FileExamples';
-import Quiz from './components/Quiz';
-import ProgressBar from './components/ProgressBar';
+import BitManipulation from './components/BitManipulation.js';
+import ByteConverter from './components/ByteConverter.js';
+import Introduction from './components/Introduction.js';
+import FileExamples from './components/FileExamples.js';
+import Quiz from './components/Quiz.js';
+import ProgressBar from './components/ProgressBar.js';
 
 const steps = [
   { id: 1, title: "Introduction aux bits" },
