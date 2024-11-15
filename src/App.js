@@ -1,3 +1,4 @@
+import './index.css';
 import { Binary, HardDrive, Check, ChevronRight, HelpCircle, RefreshCw } from 'lucide-react';
 import BitManipulation from './components/BitManipulation.js';
 import ByteConverter from './components/ByteConverter.js';
