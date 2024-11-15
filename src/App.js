@@ -1,5 +1,5 @@
 import './index.css';
-import { Binary, HardDrive, Check, ChevronRight, HelpCircle, RefreshCw } from '/node_modules/lucide-react';
+import { Binary, HardDrive, Check, ChevronRight, HelpCircle, RefreshCw } from '/node_modules/.vite/deps/lucide-react.js';
 import BitManipulation from './components/BitManipulation.js';
 import ByteConverter from './components/ByteConverter.js';
 import Introduction from './components/Introduction.js';
